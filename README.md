@@ -58,13 +58,13 @@
 
 - 抽象类是指具有纯虚函数的类
 
--
+- ![image](https://user-images.githubusercontent.com/81566673/135783310-b70fcac3-4108-45ba-9dcf-aa51aecb0458.png)
+
 - Objective-C声明一个类所要用到的编译指令是@interface　Someclass
 
 ## 指针相关：
 - 计算优先级
-
-
+![image](https://user-images.githubusercontent.com/81566673/135783333-e56a1680-1ac0-458a-aa05-6d03e4a30461.png)
 
 - 数组指针和指针数组
    数组指针：定义 int (*p)[n]; 本质上是指针，p是一个指针，指向一个整型的一维数组，这个一维数组的长度是n，也可以说是p的步长。
